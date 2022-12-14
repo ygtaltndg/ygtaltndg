@@ -20,8 +20,8 @@ https://github.com/karsterr/programlama_algoritma_giris from https://github.com/
 -Phyton
 
 ### my contact information links here;
-brkcnaktndg@gmail.com
-for Discord; Texa5#7971
+brkcnaltndg@gmail.com
+for Discord; Texa5#0007
 
 
 
