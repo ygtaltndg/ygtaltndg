@@ -6,13 +6,13 @@
 
 
 ## My Hobbies
--Im really enjoying while playing video games etc ( FIFA Series, Rocket League , soma moba stuffs(new world and lost ark) and FPS Games (Valorant PUBG R6)
--I Really love playing basketball and futboll but im noot good at it :kekw:
--i really like listening music like Turkish Rock and Pop music
++ Im really enjoying while playing video games etc ( FIFA Series, Rocket League , soma moba stuffs(new world and lost ark) and FPS Games (Valorant PUBG R6)
++ Im Really love playing basketball and futboll but im noot good at it :kekw:
++ Im really like listening music like Turkish Rock and Pop music
 
 ## Forks
 
-https://github.com/karsterr/programlama_algoritma_giris from https://github.com/mepol58
+https://github.com/mesutpol/programlama_algoritma_giris from https://github.com/mepol58
 
 ### Learning
 -HTML
