@@ -24,6 +24,8 @@ brkcnaltndg@gmail.com
 for Discord; Texa5#0007
 [instagram]: https://www.instagram.com/yigit_altndg/
 
+(https://spotify-recently-played-readme.vercel.app/api?user=11147297163?si=441848dba6304868
+
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
