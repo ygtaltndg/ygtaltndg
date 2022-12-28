@@ -22,6 +22,5 @@ https://github.com/mesutpol/programlama_algoritma_giris from https://github.com/
 ### my contact information links here;
 brkcnaltndg@gmail.com
 for Discord; Texa5#0007
-
-
+[instagram]: https://www.instagram.com/yigit_altndg/
 
