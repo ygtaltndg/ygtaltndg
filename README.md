@@ -1,8 +1,9 @@
 # AN INTERVIEW OF MYSELF 
 
 ## About Myself
--Hello, Im Yigit Altundag and im 20 years old. Im studying IT Systems and Technologies at Sivas Cumhuriyet University
--Im really interested in Arduino, HTML, SQL and im learning Phyton
+-Hello, Im Yigit Altundag and im 22 years old. Im studying IT Systems and Technologies at Sivas Cumhuriyet University
+-Im really interested in Arduino, Machine Learning, SQL and Python
+-Currently focusing on Machine Learning and Data Science
 
 
 ## My Hobbies
@@ -15,15 +16,14 @@
 ----------------------
 
 ### Learning
--HTML
--CSS
+-Machine Learning
 -PHP
 -SQL
 -Unreal Engine
 
 ### my contact information links here;
 brkcnaltndg@gmail.com
-for Discord; Texa5#0007
+for Discord; eloquence
 [instagram]: https://www.instagram.com/yigit_altndg/
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/Texa5#0007)](https://discord.com/users/Texa5#0007)
