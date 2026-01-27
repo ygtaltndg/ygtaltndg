@@ -7,9 +7,8 @@
 
 
 ## My Hobbies
-+ Im really enjoying while playing video games etc ( FIFA Series, Rocket League , soma moba stuffs(New World and Lost Ark),Souslike Games(Elden Ring,Lies Of P) and FPS Games (Valorant PUBG R6)
-+ Im Really love playing basketball and futboll but im noot good at it :kekw:
-+ Im really like listening music like Turkish Rock and Pop music
++ Playing video games etc MMO, Souslike,
++ Listening music (black metal, turkish pop etc...)
 
 ## Forks
 
