@@ -1,18 +1,10 @@
 # AN INTERVIEW OF MYSELF 
 
 ## About Myself
--Hello, Im Yigit Altundag and im 23 years old. Im studying IT Systems and Technologies at Sivas Cumhuriyet University
+-Hello, Im Yigit Altundag and im 23 years old. Im graduated IT Systems and Technologies at Sivas Cumhuriyet University
 -Interested in Arduino, Data Science ,Machine Learning, SQL and Python
--Currently internship at Arch of Sigma / IT Intern
+-Currently internship Social Office / AI Intern
 -Focusing on Data Science 
-
-
-
-### Learning
--Machine Learning
--Deep Learning
--SQL
-
 
 
 ### my contact information links here;
